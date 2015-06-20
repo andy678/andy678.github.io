@@ -1,3 +1,3 @@
 My personal website 
 
-url: andy678.github.io
+URL: andy678.github.io
